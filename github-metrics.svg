@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.53m added, 46.9k removed
+                                    1.50m added, 17.4k removed
                                 </div>
                             </section>
                             <section>
@@ -231,14 +231,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="185.01858872337144" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="185.01858872337144" y="0" width="131.81417501689413" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="316.83276374026553" y="0" width="87.06394590007118" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="403.8967096403367" y="0" width="21.962909704109023" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="425.8596193444457" y="0" width="13.744997990688692" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="439.6046173351344" y="0" width="8.477092813582253" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="448.08171014871664" y="0" width="8.131783154847005" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.21349330356367" y="0" width="3.786506696436291" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="185.02089225599707" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="185.02089225599707" y="0" width="131.81581613984704" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="316.8367083958441" y="0" width="87.06502987028887" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="403.90173826613295" y="0" width="21.963183148412142" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="425.8649214145451" y="0" width="13.739441992431615" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="439.60436340697674" y="0" width="8.477198355733456" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="448.0815617627102" y="0" width="8.131884397797407" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.2134461605076" y="0" width="3.786553839492416" height="8" fill="#dea584"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -293,7 +293,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2023, 15:17:52 (timezone America/Indiana/Indianapolis) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 27 Jan 2023, 16:14:29 (timezone America/Indiana/Indianapolis) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
