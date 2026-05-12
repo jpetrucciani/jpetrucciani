@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ![Nix](https://img.shields.io/badge/-Nix-black?style=flat-square&logo=nixos)
 ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
