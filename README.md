@@ -5,53 +5,52 @@
 [![Keybase PGP](https://img.shields.io/keybase/pgp/jacobi?style=flat-square&logo=keybase)](https://keybase.io/jacobi)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jpetrucciani.jpetrucciani)
 
-## 🧙 Hi there ✨
+# 🧙 hey, I'm jacobi
+ 
+I build tools for people who build systems.
+ 
+Mostly that means infrastructure that stays out of your way: reproducible
+environments, small composable CLIs, and systems that fail loudly instead of
+mysteriously. I like static binaries, no magic, and being able to explain the
+whole thing on a whiteboard.
+ 
+By day I lead infrastructure, security, observability, and AI engineering at a
+proprietary options trading firm — low-latency market data, on-prem fleets, and
+the platform everything else sits on. Before that I cofounded
+[Mimir](https://github.com/mimirhq) (YC S15, acquired by HackerRank), where I
+built a code execution sandbox that safely ran millions of untrusted programs a
+day and a browser IDE back when that was still a strange idea.
+ 
+## ✨ things I've built
+ 
+**[pog](https://github.com/jpetrucciani/pog)** — a framework for building bash
+CLIs that don't feel like bash. Flags, validation, completions, and help text,
+packaged with Nix. `hex` is written in it.
+ 
+**[nix](https://github.com/jpetrucciani/nix)** — my nixpkgs overlay collection. A pile
+of packages and helpers that several companies now use as the base of their
+internal dev environments.
 
-Welcome to my GitHub profile!
+**[hex](https://github.com/jpetrucciani/hex)** — an opinionated abstraction
+layer that brings Nix to Kubernetes. Write declarative, composable *spells*
+instead of a YAML sprawl; get server-side diffs, Helm interop, and strict schema
+validation for free. Used in production by a handful of companies.
+ 
+Plus a long tail of smaller things: MCP servers, observability daemons, agent
+tooling, and whatever else I needed badly enough to write.
+ 
+## 🔧 what I actually reach for
+ 
+**Nix** for everything reproducible · **Rust** and **Go** for daemons and
+performance-sensitive work · **Python** where iteration speed wins ·
+**Kubernetes**, **NixOS**, and **Terraform** to hold it all together
+ 
+## 🏠 elsewhere
+ 
+I run a homelab I have no business running — a NixOS fleet, a k3s cluster, and
+enough GPUs to make local inference genuinely useful — largely because it's the
+best place to break things before work does.
 
-<!--
-**jpetrucciani/jpetrucciani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
--->
-
-## 💻 Tech
-
-### languages
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Nix](https://img.shields.io/badge/-Nix-black?style=flat-square&logo=nixos)
-![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-
-### clouds
-
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-
-### other
-
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-
-<!-- ### SaaS
-
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) -->
-
-<!-- ### OS
-
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux) -->
 
 ## &#x1f4c8; GitHub Stats
 
