@@ -15,7 +15,7 @@ mysteriously. I like static binaries, no magic, and being able to explain the
 whole thing on a whiteboard.
  
 By day I lead infrastructure, security, observability, and AI engineering at a
-proprietary options trading firm — low-latency market data, on-prem fleets, and
+proprietary options trading firm. Low-latency market data, on-prem fleets, and
 the platform everything else sits on. Before that I cofounded
 [Mimir](https://github.com/mimirhq) (YC S15, acquired by HackerRank), where I
 built a code execution sandbox that safely ran millions of untrusted programs a
@@ -47,8 +47,8 @@ performance-sensitive work · **Python** where iteration speed wins ·
  
 ## 🏠 elsewhere
  
-I run a homelab I have no business running — a NixOS fleet, a k3s cluster, and
-enough GPUs to make local inference genuinely useful — largely because it's the
+I run a homelab I have no business running. a NixOS fleet, multiple k3s clusters, and
+enough GPUs to make local inference genuinely useful; largely because it's the
 best place to break things before work does.
 
 
